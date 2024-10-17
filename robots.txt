@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntlextri.github.io/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/app/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/assets/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/css/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/includes/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/item/sitemap.xml.gz
+Sitemap: https://ntlextri.github.io/src/sitemap.xml.gz
